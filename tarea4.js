@@ -86,7 +86,7 @@ function masBaja(nums) {
 //             for (const calificacion of reprobados) {
 //                 console.log(`${calificacion.numero} está reprobado.`);
 //             }
-
+            console.log(`\n**CALIFICACIONES**`);
             console.log(`\nTotal Alumnos: ${analizarCalificaciones.length} Evaluados.`);
             console.log(`\nTotal Aprobados: ${aprobados.length} Alumnos.`);
             console.log(`\nTotal Reprobados: ${reprobados.length} Alumnos.`);
